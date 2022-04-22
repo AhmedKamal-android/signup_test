@@ -1,13 +1,13 @@
 // ignore_for_file: camel_case_types, unused_import, use_key_in_widget_constructors, annotate_overrides, prefer_const_constructors, sized_box_for_whitespace, unnecessary_import, prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, file_names
 
-import 'package:firebase_auth/firebase_auth.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_application_1/Log&Rig/Rigister.dart';
-import 'package:flutter_application_1/app/yourhealth.dart';
-import 'package:flutter_application_1/app/homescreen.dart';
-import 'package:fluttertoast/fluttertoast.dart';
+// import 'package:flutter_application_1/Log&Rig/Rigister.dart';
+// import 'package:flutter_application_1/app/yourhealth.dart';
+// import 'package:flutter_application_1/app/homescreen.dart';
+// import 'package:fluttertoast/fluttertoast.dart';
 
 class home extends StatefulWidget {
   @override
